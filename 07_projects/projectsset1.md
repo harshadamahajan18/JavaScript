@@ -1,7 +1,7 @@
 # Projects related to DOM
 
 ## project link
-[click here](https://js-ywscv7.stackblitz.io)
+[click here]()
 
 # Solution code
 
